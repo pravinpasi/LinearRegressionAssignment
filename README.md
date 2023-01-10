@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Linear Regression Assignment - Bike sharing data using MLR
 
 
 ## Table of Contents
