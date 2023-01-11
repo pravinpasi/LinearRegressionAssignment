@@ -38,7 +38,7 @@ Dataset contains the bike sharing info of the users on different season, year, o
 
 ## Conclusions
 - The R² value for the test data = 0.836
-- The R² value for the train data = 0.7848
+- The R² value for the train data = 0.8038
 - Top 3 predictor variables that influences the bike booking:-
 
     - Temperature (temp)
